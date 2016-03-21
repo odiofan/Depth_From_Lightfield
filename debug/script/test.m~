@@ -1,0 +1,25 @@
+
+clear;
+clc;
+load ../data/cvx.h5;
+data = data';
+
+
+
+j=424;
+i=381;
+
+j=381;
+i=475;
+
+j=486;
+i=417;
+
+j=439;
+i=377;
+
+n=64;
+
+profile = data(64*(j*640+i):64*(j*640+i)+63,1);
+
+plot(profile);

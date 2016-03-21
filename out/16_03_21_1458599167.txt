@@ -1,0 +1,42 @@
+=================Start====================  ./config/LYTRO/office.xml
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.12069 Seconds
+ 100%
+ 24.6096%
+ 17.0339%
+ 13.4819%
+35
+28
+35
+28
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 6257891
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=6257891 (E=6257891+0+0)
+gco>> after cycle  1: 	E=445765 (E=437914+7851+0); 	64 expansions(s); 	8579 ms
+After optimization energy is 445765
+ ======== Multiview     ======>>>>>>>
+Time spent 8.41076 Seconds
+=================Finish====================
+=================Start====================  ./config/LYTRO/bus.xml
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.195 Seconds
+ 100%
+ 17.5337%
+ 11.8118%
+ 9.35596%
+56
+50
+56
+50
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 17453545
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=17453545 (E=17453545+0+0)
+gco>> after cycle  1: 	E=2172999 (E=2159557+13442+0); 	64 expansions(s); 	10876 ms
+After optimization energy is 2172999
+ ======== Multiview     ======>>>>>>>
+Time spent 8.50159 Seconds
+=================Finish====================

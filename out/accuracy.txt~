@@ -1,0 +1,1219 @@
+=================Start====================  ../config/HCI/buddha.xml
+-0.845765 1.54017
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.45712 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0871336
+Error > 0.5 disp  [ in % of pixels ]: 0.562519
+Error > 0.1 disp  [ in % of pixels ]: 3.1753
+Error > 0.05 disp [ in % of pixels ]: 6.07171
+
+Average absolute error         : 0.0251242
+Average squared error          : 0.00578929
+96.8994% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0846841
+Error > 0.5 disp  [ in % of pixels ]: 0.512479
+Error > 0.1 disp  [ in % of pixels ]: 2.86386
+Error > 0.05 disp [ in % of pixels ]: 7.61072
+
+Average absolute error         : 0.0254795
+Average squared error          : 0.00543767
+96.8994% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.058614
+Error > 0.5 disp  [ in % of pixels ]: 0.387202
+Error > 0.1 disp  [ in % of pixels ]: 1.98098
+Error > 0.05 disp [ in % of pixels ]: 4.86601
+
+Average absolute error         : 0.0211527
+Average squared error          : 0.00391412
+96.8994% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 1447022467
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=1447022467 (E=1447022467+0+0)
+gco>> after cycle  1: 	E=29333383 (E=29333367+16+0); 	64 expansions(s); 	4092 ms
+After optimization energy is 29333383
+Error >   1 disp  [ in % of pixels ]: 0.0635131
+Error > 0.5 disp  [ in % of pixels ]: 0.452465
+Error > 0.1 disp  [ in % of pixels ]: 3.17968
+Error > 0.05 disp [ in % of pixels ]: 11.3512
+
+Average absolute error         : 0.0298991
+Average squared error          : 0.00502467
+96.8994% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/buddha2.xml
+-0.702702 1.2
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.4676 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.021346
+Error > 0.5 disp  [ in % of pixels ]: 1.83068
+Error > 0.1 disp  [ in % of pixels ]: 23.7105
+Error > 0.05 disp [ in % of pixels ]: 46.2611
+
+Average absolute error         : 0.0868483
+Average squared error          : 0.0209921
+96.8994% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.00664875
+Error > 0.5 disp  [ in % of pixels ]: 1.19678
+Error > 0.1 disp  [ in % of pixels ]: 24.3783
+Error > 0.05 disp [ in % of pixels ]: 36.9623
+
+Average absolute error         : 0.0850033
+Average squared error          : 0.0204443
+96.8994% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0127726
+Error > 0.5 disp  [ in % of pixels ]: 1.00659
+Error > 0.1 disp  [ in % of pixels ]: 14.8925
+Error > 0.05 disp [ in % of pixels ]: 29.0769
+
+Average absolute error         : 0.0628599
+Average squared error          : 0.0134455
+96.8994% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 2076293833
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=2076293833 (E=2076293833+0+0)
+gco>> after cycle  1: 	E=71165330 (E=71165270+60+0); 	64 expansions(s); 	4083 ms
+After optimization energy is 71165330
+Error >   1 disp  [ in % of pixels ]: 0.0237955
+Error > 0.5 disp  [ in % of pixels ]: 1.06013
+Error > 0.1 disp  [ in % of pixels ]: 16.6357
+Error > 0.05 disp [ in % of pixels ]: 32.3091
+
+Average absolute error         : 0.0675467
+Average squared error          : 0.0148286
+96.8994% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/horse.xml
+-nan -nan
+=================Start====================  ../config/HCI/medieval.xml
+-1.9283 0.889612
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.86923 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0713193
+Error > 0.5 disp  [ in % of pixels ]: 1.37461
+Error > 0.1 disp  [ in % of pixels ]: 18.4283
+Error > 0.05 disp [ in % of pixels ]: 36.7424
+
+Average absolute error         : 0.0717837
+Average squared error          : 0.0176815
+97.181% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.175995
+Error > 0.5 disp  [ in % of pixels ]: 1.35325
+Error > 0.1 disp  [ in % of pixels ]: 21.0801
+Error > 0.05 disp [ in % of pixels ]: 35.887
+
+Average absolute error         : 0.0750732
+Average squared error          : 0.019476
+97.181% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.132311
+Error > 0.5 disp  [ in % of pixels ]: 0.582836
+Error > 0.1 disp  [ in % of pixels ]: 9.93641
+Error > 0.05 disp [ in % of pixels ]: 25.3383
+
+Average absolute error         : 0.0467288
+Average squared error          : 0.0090149
+97.181% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 3034658059
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=3034658059 (E=3034658059+0+0)
+gco>> after cycle  1: 	E=207691213 (E=207685358+5855+0); 	64 expansions(s); 	5235 ms
+After optimization energy is 207691213
+Error >   1 disp  [ in % of pixels ]: 22.2945
+Error > 0.5 disp  [ in % of pixels ]: 26.6695
+Error > 0.1 disp  [ in % of pixels ]: 38.5369
+Error > 0.05 disp [ in % of pixels ]: 49.0825
+
+Average absolute error         : 0.387548
+Average squared error          : 0.500057
+97.181% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/monasRoom.xml
+-0.793128 0.716491
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.48207 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0722614
+Error > 0.5 disp  [ in % of pixels ]: 1.38084
+Error > 0.1 disp  [ in % of pixels ]: 8.42274
+Error > 0.05 disp [ in % of pixels ]: 17.2854
+
+Average absolute error         : 0.041147
+Average squared error          : 0.0121341
+96.8994% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0741861
+Error > 0.5 disp  [ in % of pixels ]: 0.804499
+Error > 0.1 disp  [ in % of pixels ]: 5.50464
+Error > 0.05 disp [ in % of pixels ]: 11.5851
+
+Average absolute error         : 0.0298117
+Average squared error          : 0.00760436
+96.8994% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0465413
+Error > 0.5 disp  [ in % of pixels ]: 0.606786
+Error > 0.1 disp  [ in % of pixels ]: 4.61616
+Error > 0.05 disp [ in % of pixels ]: 10.2947
+
+Average absolute error         : 0.0266715
+Average squared error          : 0.00572263
+96.8994% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 958431153
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=958431153 (E=958431153+0+0)
+gco>> after cycle  1: 	E=33619055 (E=33619002+53+0); 	64 expansions(s); 	4117 ms
+After optimization energy is 33619055
+Error >   1 disp  [ in % of pixels ]: 0.0432169
+Error > 0.5 disp  [ in % of pixels ]: 0.518777
+Error > 0.1 disp  [ in % of pixels ]: 5.7153
+Error > 0.05 disp [ in % of pixels ]: 18.2842
+
+Average absolute error         : 0.0379471
+Average squared error          : 0.00646378
+96.8994% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/papillon.xml
+-1.17007 0.893516
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.46438 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.298844
+Error > 0.5 disp  [ in % of pixels ]: 1.10684
+Error > 0.1 disp  [ in % of pixels ]: 19.3319
+Error > 0.05 disp [ in % of pixels ]: 43.0979
+
+Average absolute error         : 0.074826
+Average squared error          : 0.0190067
+96.8994% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.380204
+Error > 0.5 disp  [ in % of pixels ]: 1.69491
+Error > 0.1 disp  [ in % of pixels ]: 20.8088
+Error > 0.05 disp [ in % of pixels ]: 44.5701
+
+Average absolute error         : 0.0790162
+Average squared error          : 0.0225906
+96.8994% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.229032
+Error > 0.5 disp  [ in % of pixels ]: 1.13064
+Error > 0.1 disp  [ in % of pixels ]: 14.8617
+Error > 0.05 disp [ in % of pixels ]: 35.5404
+
+Average absolute error         : 0.0644479
+Average squared error          : 0.0159191
+96.8994% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 1542173720
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=1542173720 (E=1542173720+0+0)
+gco>> after cycle  1: 	E=33665683 (E=33665552+131+0); 	64 expansions(s); 	4204 ms
+After optimization energy is 33665683
+Error >   1 disp  [ in % of pixels ]: 0.256852
+Error > 0.5 disp  [ in % of pixels ]: 1.31873
+Error > 0.1 disp  [ in % of pixels ]: 20.6725
+Error > 0.05 disp [ in % of pixels ]: 42.8489
+
+Average absolute error         : 0.0766384
+Average squared error          : 0.0200649
+96.8994% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/stillLife.xml
+-2.70676 2.56311
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.48299 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 1.01481
+Error > 0.5 disp  [ in % of pixels ]: 2.25725
+Error > 0.1 disp  [ in % of pixels ]: 9.02865
+Error > 0.05 disp [ in % of pixels ]: 23.6643
+
+Average absolute error         : 0.0653814
+Average squared error          : 0.0400364
+96.8994% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.590689
+Error > 0.5 disp  [ in % of pixels ]: 1.26449
+Error > 0.1 disp  [ in % of pixels ]: 6.90595
+Error > 0.05 disp [ in % of pixels ]: 21.811
+
+Average absolute error         : 0.053071
+Average squared error          : 0.026694
+96.8994% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.539948
+Error > 0.5 disp  [ in % of pixels ]: 1.14516
+Error > 0.1 disp  [ in % of pixels ]: 5.85492
+Error > 0.05 disp [ in % of pixels ]: 19.7324
+
+Average absolute error         : 0.0489976
+Average squared error          : 0.0227733
+96.8994% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 11179126524
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=11179126524 (E=11179126524+0+0)
+gco>> after cycle  1: 	E=226104238 (E=226104231+7+0); 	64 expansions(s); 	4134 ms
+After optimization energy is 226104238
+Error >   1 disp  [ in % of pixels ]: 0.630756
+Error > 0.5 disp  [ in % of pixels ]: 1.29406
+Error > 0.1 disp  [ in % of pixels ]: 6.00907
+Error > 0.05 disp [ in % of pixels ]: 20.0901
+
+Average absolute error         : 0.051581
+Average squared error          : 0.0280264
+96.8994% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/couple.xml
+-1.11133 1.25327
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 2.01498 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0316202
+Error > 0.5 disp  [ in % of pixels ]: 0.0687395
+Error > 0.1 disp  [ in % of pixels ]: 12.2618
+Error > 0.05 disp [ in % of pixels ]: 56.2679
+
+Average absolute error         : 0.059491
+Average squared error          : 0.00556567
+27.0603% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0265793
+Error > 0.5 disp  [ in % of pixels ]: 0.0701143
+Error > 0.1 disp  [ in % of pixels ]: 2.92464
+Error > 0.05 disp [ in % of pixels ]: 33.5371
+
+Average absolute error         : 0.04247
+Average squared error          : 0.00319148
+27.0603% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0362028
+Error > 0.5 disp  [ in % of pixels ]: 0.0801961
+Error > 0.1 disp  [ in % of pixels ]: 2.41917
+Error > 0.05 disp [ in % of pixels ]: 41.4944
+
+Average absolute error         : 0.046895
+Average squared error          : 0.00364256
+27.0603% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 2669193313
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=2669193313 (E=2669193313+0+0)
+gco>> after cycle  1: 	E=149225615 (E=149225615+0+0); 	64 expansions(s); 	5392 ms
+After optimization energy is 149225615
+Error >   1 disp  [ in % of pixels ]: 0.15581
+Error > 0.5 disp  [ in % of pixels ]: 0.254795
+Error > 0.1 disp  [ in % of pixels ]: 3.33708
+Error > 0.05 disp [ in % of pixels ]: 47.5916
+
+Average absolute error         : 0.0528297
+Average squared error          : 0.00723221
+27.0603% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/cube.xml
+-1.11123 0.796921
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.99996 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.120046
+Error > 0.5 disp  [ in % of pixels ]: 0.735195
+Error > 0.1 disp  [ in % of pixels ]: 4.23572
+Error > 0.05 disp [ in % of pixels ]: 12.6489
+
+Average absolute error         : 0.0345768
+Average squared error          : 0.00749686
+17.4576% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.010655
+Error > 0.5 disp  [ in % of pixels ]: 0.625093
+Error > 0.1 disp  [ in % of pixels ]: 5.2657
+Error > 0.05 disp [ in % of pixels ]: 21.4613
+
+Average absolute error         : 0.0403483
+Average squared error          : 0.00639291
+17.4576% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.023441
+Error > 0.5 disp  [ in % of pixels ]: 0.623673
+Error > 0.1 disp  [ in % of pixels ]: 3.55806
+Error > 0.05 disp [ in % of pixels ]: 8.47214
+
+Average absolute error         : 0.0293723
+Average squared error          : 0.0054165
+17.4576% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 1413345223
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=1413345223 (E=1413345223+0+0)
+gco>> after cycle  1: 	E=85162572 (E=85162572+0+0); 	64 expansions(s); 	5401 ms
+After optimization energy is 85162572
+Error >   1 disp  [ in % of pixels ]: 0.289816
+Error > 0.5 disp  [ in % of pixels ]: 1.59754
+Error > 0.1 disp  [ in % of pixels ]: 7.727
+Error > 0.05 disp [ in % of pixels ]: 16.4428
+
+Average absolute error         : 0.0473766
+Average squared error          : 0.0167213
+17.4576% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/maria.xml
+-0.598455 0.428757
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 2.15299 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.00707206
+Error > 0.1 disp  [ in % of pixels ]: 0.847798
+Error > 0.05 disp [ in % of pixels ]: 9.6658
+
+Average absolute error         : 0.0253392
+Average squared error          : 0.00115123
+41.2261% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.0124468
+Error > 0.1 disp  [ in % of pixels ]: 5.92242
+Error > 0.05 disp [ in % of pixels ]: 32.9023
+
+Average absolute error         : 0.0423941
+Average squared error          : 0.00302428
+41.2261% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.0101838
+Error > 0.1 disp  [ in % of pixels ]: 0.523049
+Error > 0.05 disp [ in % of pixels ]: 8.0084
+
+Average absolute error         : 0.0248649
+Average squared error          : 0.0010705
+41.2261% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 646569924
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=646569924 (E=646569924+0+0)
+gco>> after cycle  1: 	E=52063453 (E=52063453+0+0); 	64 expansions(s); 	5859 ms
+After optimization energy is 52063453
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.144553
+Error > 0.1 disp  [ in % of pixels ]: 0.816964
+Error > 0.05 disp [ in % of pixels ]: 4.50971
+
+Average absolute error         : 0.0232387
+Average squared error          : 0.00153775
+41.2261% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/pyramide.xml
+-1.11133 0.787241
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.98553 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.411759
+Error > 0.1 disp  [ in % of pixels ]: 13.5474
+Error > 0.05 disp [ in % of pixels ]: 44.4057
+
+Average absolute error         : 0.0574598
+Average squared error          : 0.00757873
+10.9925% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.487343
+Error > 0.1 disp  [ in % of pixels ]: 7.46131
+Error > 0.05 disp [ in % of pixels ]: 28.5998
+
+Average absolute error         : 0.0447547
+Average squared error          : 0.00632968
+10.9925% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.447859
+Error > 0.1 disp  [ in % of pixels ]: 3.09778
+Error > 0.05 disp [ in % of pixels ]: 6.92771
+
+Average absolute error         : 0.0288326
+Average squared error          : 0.00449403
+10.9925% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 227105205
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=227105205 (E=227105205+0+0)
+gco>> after cycle  1: 	E=7630564 (E=7630564+0+0); 	64 expansions(s); 	5338 ms
+After optimization energy is 7630564
+Error >   1 disp  [ in % of pixels ]: 0.147782
+Error > 0.5 disp  [ in % of pixels ]: 1.10555
+Error > 0.1 disp  [ in % of pixels ]: 4.70534
+Error > 0.05 disp [ in % of pixels ]: 8.96395
+
+Average absolute error         : 0.0351462
+Average squared error          : 0.0102144
+10.9925% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/statue.xml
+-2.27164 0.53734
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 2.01691 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 1.02854
+Error > 0.1 disp  [ in % of pixels ]: 14.8831
+Error > 0.05 disp [ in % of pixels ]: 36.3365
+
+Average absolute error         : 0.0637364
+Average squared error          : 0.0128267
+16.7467% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0103668
+Error > 0.5 disp  [ in % of pixels ]: 0.154762
+Error > 0.1 disp  [ in % of pixels ]: 36.2832
+Error > 0.05 disp [ in % of pixels ]: 63.7412
+
+Average absolute error         : 0.0885328
+Average squared error          : 0.013122
+16.7467% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.00148098
+Error > 0.5 disp  [ in % of pixels ]: 0.0140693
+Error > 0.1 disp  [ in % of pixels ]: 7.05093
+Error > 0.05 disp [ in % of pixels ]: 28.0075
+
+Average absolute error         : 0.0407799
+Average squared error          : 0.00333304
+16.7467% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 923448030
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=923448030 (E=923448030+0+0)
+gco>> after cycle  1: 	E=18170298 (E=18170298+0+0); 	64 expansions(s); 	5395 ms
+After optimization energy is 18170298
+Error >   1 disp  [ in % of pixels ]: 0.0281386
+Error > 0.5 disp  [ in % of pixels ]: 0.095523
+Error > 0.1 disp  [ in % of pixels ]: 8.45268
+Error > 0.05 disp [ in % of pixels ]: 36.5979
+
+Average absolute error         : 0.0475617
+Average squared error          : 0.00456534
+16.7467% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/LYTRO/toymap.xml
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.02518 Seconds
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 6042858
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=6042858 (E=6042858+0+0)
+gco>> after cycle  1: 	E=1853061 (E=1833708+19353+0); 	64 expansions(s); 	9228 ms
+After optimization energy is 1853061
+=================Finish====================
+=================Start====================  ../config/LYTRO/tulip.xml
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.01225 Seconds
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 8896721
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=8896721 (E=8896721+0+0)
+gco>> after cycle  1: 	E=2129784 (E=2103712+26072+0); 	64 expansions(s); 	8514 ms
+After optimization energy is 2129784
+=================Finish====================
+=================Start====================  ../config/HCI/buddha.xml
+-0.845765 1.54017
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.50338 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0871336
+Error > 0.5 disp  [ in % of pixels ]: 0.562519
+Error > 0.1 disp  [ in % of pixels ]: 3.1753
+Error > 0.05 disp [ in % of pixels ]: 6.07171
+
+Average absolute error         : 0.0251242
+Average squared error          : 0.00578929
+96.8994% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0846841
+Error > 0.5 disp  [ in % of pixels ]: 0.512479
+Error > 0.1 disp  [ in % of pixels ]: 2.86386
+Error > 0.05 disp [ in % of pixels ]: 7.61072
+
+Average absolute error         : 0.0254795
+Average squared error          : 0.00543767
+96.8994% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.058614
+Error > 0.5 disp  [ in % of pixels ]: 0.387202
+Error > 0.1 disp  [ in % of pixels ]: 1.98098
+Error > 0.05 disp [ in % of pixels ]: 4.86601
+
+Average absolute error         : 0.0211527
+Average squared error          : 0.00391412
+96.8994% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 1447022467
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=1447022467 (E=1447022467+0+0)
+gco>> after cycle  1: 	E=29333383 (E=29333367+16+0); 	64 expansions(s); 	4141 ms
+After optimization energy is 29333383
+Error >   1 disp  [ in % of pixels ]: 0.0635131
+Error > 0.5 disp  [ in % of pixels ]: 0.452465
+Error > 0.1 disp  [ in % of pixels ]: 3.17968
+Error > 0.05 disp [ in % of pixels ]: 11.3512
+
+Average absolute error         : 0.0298991
+Average squared error          : 0.00502467
+96.8994% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/buddha2.xml
+-0.702702 1.2
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.47163 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.021346
+Error > 0.5 disp  [ in % of pixels ]: 1.83068
+Error > 0.1 disp  [ in % of pixels ]: 23.7105
+Error > 0.05 disp [ in % of pixels ]: 46.2611
+
+Average absolute error         : 0.0868483
+Average squared error          : 0.0209921
+96.8994% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.00664875
+Error > 0.5 disp  [ in % of pixels ]: 1.19678
+Error > 0.1 disp  [ in % of pixels ]: 24.3783
+Error > 0.05 disp [ in % of pixels ]: 36.9623
+
+Average absolute error         : 0.0850033
+Average squared error          : 0.0204443
+96.8994% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0127726
+Error > 0.5 disp  [ in % of pixels ]: 1.00659
+Error > 0.1 disp  [ in % of pixels ]: 14.8925
+Error > 0.05 disp [ in % of pixels ]: 29.0769
+
+Average absolute error         : 0.0628599
+Average squared error          : 0.0134455
+96.8994% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 2076293833
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=2076293833 (E=2076293833+0+0)
+gco>> after cycle  1: 	E=71165330 (E=71165270+60+0); 	64 expansions(s); 	4110 ms
+After optimization energy is 71165330
+Error >   1 disp  [ in % of pixels ]: 0.0237955
+Error > 0.5 disp  [ in % of pixels ]: 1.06013
+Error > 0.1 disp  [ in % of pixels ]: 16.6357
+Error > 0.05 disp [ in % of pixels ]: 32.3091
+
+Average absolute error         : 0.0675467
+Average squared error          : 0.0148286
+96.8994% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/horse.xml
+-2.56246 0.935065
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.51405 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.326052
+Error > 0.5 disp  [ in % of pixels ]: 2.7936
+Error > 0.1 disp  [ in % of pixels ]: 15.3556
+Error > 0.05 disp [ in % of pixels ]: 29.5409
+
+Average absolute error         : 0.0710571
+Average squared error          : 0.0249662
+96.7692% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 1.02055
+Error > 0.5 disp  [ in % of pixels ]: 3.61968
+Error > 0.1 disp  [ in % of pixels ]: 15.4518
+Error > 0.05 disp [ in % of pixels ]: 27.8034
+
+Average absolute error         : 0.0810191
+Average squared error          : 0.0375553
+96.7692% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.339367
+Error > 0.5 disp  [ in % of pixels ]: 1.70174
+Error > 0.1 disp  [ in % of pixels ]: 11.3927
+Error > 0.05 disp [ in % of pixels ]: 23.5873
+
+Average absolute error         : 0.0570132
+Average squared error          : 0.0173658
+96.7692% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 4921849886
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=4921849886 (E=4921849886+0+0)
+gco>> after cycle  1: 	E=115777634 (E=115776437+1197+0); 	64 expansions(s); 	4246 ms
+After optimization energy is 115777634
+Error >   1 disp  [ in % of pixels ]: 19.6963
+Error > 0.5 disp  [ in % of pixels ]: 40.6338
+Error > 0.1 disp  [ in % of pixels ]: 49.6946
+Error > 0.05 disp [ in % of pixels ]: 56.5028
+
+Average absolute error         : 0.493241
+Average squared error          : 0.621304
+96.7692% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/medieval.xml
+-1.9283 0.889612
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.90294 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0713193
+Error > 0.5 disp  [ in % of pixels ]: 1.37461
+Error > 0.1 disp  [ in % of pixels ]: 18.4283
+Error > 0.05 disp [ in % of pixels ]: 36.7424
+
+Average absolute error         : 0.0717837
+Average squared error          : 0.0176815
+97.181% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.175995
+Error > 0.5 disp  [ in % of pixels ]: 1.35325
+Error > 0.1 disp  [ in % of pixels ]: 21.0801
+Error > 0.05 disp [ in % of pixels ]: 35.887
+
+Average absolute error         : 0.0750732
+Average squared error          : 0.019476
+97.181% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.132311
+Error > 0.5 disp  [ in % of pixels ]: 0.582836
+Error > 0.1 disp  [ in % of pixels ]: 9.93641
+Error > 0.05 disp [ in % of pixels ]: 25.3383
+
+Average absolute error         : 0.0467288
+Average squared error          : 0.0090149
+97.181% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 3034658059
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=3034658059 (E=3034658059+0+0)
+gco>> after cycle  1: 	E=207691213 (E=207685358+5855+0); 	64 expansions(s); 	5228 ms
+After optimization energy is 207691213
+Error >   1 disp  [ in % of pixels ]: 22.2945
+Error > 0.5 disp  [ in % of pixels ]: 26.6695
+Error > 0.1 disp  [ in % of pixels ]: 38.5369
+Error > 0.05 disp [ in % of pixels ]: 49.0825
+
+Average absolute error         : 0.387548
+Average squared error          : 0.500057
+97.181% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/monasRoom.xml
+-0.793128 0.716491
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.61833 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0722614
+Error > 0.5 disp  [ in % of pixels ]: 1.38084
+Error > 0.1 disp  [ in % of pixels ]: 8.42274
+Error > 0.05 disp [ in % of pixels ]: 17.2854
+
+Average absolute error         : 0.041147
+Average squared error          : 0.0121341
+96.8994% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0741861
+Error > 0.5 disp  [ in % of pixels ]: 0.804499
+Error > 0.1 disp  [ in % of pixels ]: 5.50464
+Error > 0.05 disp [ in % of pixels ]: 11.5851
+
+Average absolute error         : 0.0298117
+Average squared error          : 0.00760436
+96.8994% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0465413
+Error > 0.5 disp  [ in % of pixels ]: 0.606786
+Error > 0.1 disp  [ in % of pixels ]: 4.61616
+Error > 0.05 disp [ in % of pixels ]: 10.2947
+
+Average absolute error         : 0.0266715
+Average squared error          : 0.00572263
+96.8994% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 958431153
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=958431153 (E=958431153+0+0)
+gco>> after cycle  1: 	E=33619055 (E=33619002+53+0); 	64 expansions(s); 	4164 ms
+After optimization energy is 33619055
+Error >   1 disp  [ in % of pixels ]: 0.0432169
+Error > 0.5 disp  [ in % of pixels ]: 0.518777
+Error > 0.1 disp  [ in % of pixels ]: 5.7153
+Error > 0.05 disp [ in % of pixels ]: 18.2842
+
+Average absolute error         : 0.0379471
+Average squared error          : 0.00646378
+96.8994% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/papillon.xml
+-1.17007 0.893516
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.48891 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.298844
+Error > 0.5 disp  [ in % of pixels ]: 1.10684
+Error > 0.1 disp  [ in % of pixels ]: 19.3319
+Error > 0.05 disp [ in % of pixels ]: 43.0979
+
+Average absolute error         : 0.074826
+Average squared error          : 0.0190067
+96.8994% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.380204
+Error > 0.5 disp  [ in % of pixels ]: 1.69491
+Error > 0.1 disp  [ in % of pixels ]: 20.8088
+Error > 0.05 disp [ in % of pixels ]: 44.5701
+
+Average absolute error         : 0.0790162
+Average squared error          : 0.0225906
+96.8994% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.229032
+Error > 0.5 disp  [ in % of pixels ]: 1.13064
+Error > 0.1 disp  [ in % of pixels ]: 14.8617
+Error > 0.05 disp [ in % of pixels ]: 35.5404
+
+Average absolute error         : 0.0644479
+Average squared error          : 0.0159191
+96.8994% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 1542173720
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=1542173720 (E=1542173720+0+0)
+gco>> after cycle  1: 	E=33665683 (E=33665552+131+0); 	64 expansions(s); 	4465 ms
+After optimization energy is 33665683
+Error >   1 disp  [ in % of pixels ]: 0.256852
+Error > 0.5 disp  [ in % of pixels ]: 1.31873
+Error > 0.1 disp  [ in % of pixels ]: 20.6725
+Error > 0.05 disp [ in % of pixels ]: 42.8489
+
+Average absolute error         : 0.0766384
+Average squared error          : 0.0200649
+96.8994% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/stillLife.xml
+-2.70676 2.56311
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.56156 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 1.01481
+Error > 0.5 disp  [ in % of pixels ]: 2.25725
+Error > 0.1 disp  [ in % of pixels ]: 9.02865
+Error > 0.05 disp [ in % of pixels ]: 23.6643
+
+Average absolute error         : 0.0653814
+Average squared error          : 0.0400364
+96.8994% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.590689
+Error > 0.5 disp  [ in % of pixels ]: 1.26449
+Error > 0.1 disp  [ in % of pixels ]: 6.90595
+Error > 0.05 disp [ in % of pixels ]: 21.811
+
+Average absolute error         : 0.053071
+Average squared error          : 0.026694
+96.8994% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.539948
+Error > 0.5 disp  [ in % of pixels ]: 1.14516
+Error > 0.1 disp  [ in % of pixels ]: 5.85492
+Error > 0.05 disp [ in % of pixels ]: 19.7324
+
+Average absolute error         : 0.0489976
+Average squared error          : 0.0227733
+96.8994% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 11179126524
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=11179126524 (E=11179126524+0+0)
+gco>> after cycle  1: 	E=226104238 (E=226104231+7+0); 	64 expansions(s); 	4134 ms
+After optimization energy is 226104238
+Error >   1 disp  [ in % of pixels ]: 0.630756
+Error > 0.5 disp  [ in % of pixels ]: 1.29406
+Error > 0.1 disp  [ in % of pixels ]: 6.00907
+Error > 0.05 disp [ in % of pixels ]: 20.0901
+
+Average absolute error         : 0.051581
+Average squared error          : 0.0280264
+96.8994% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/couple.xml
+-1.11133 1.25327
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 2.05141 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0316202
+Error > 0.5 disp  [ in % of pixels ]: 0.0687395
+Error > 0.1 disp  [ in % of pixels ]: 12.2618
+Error > 0.05 disp [ in % of pixels ]: 56.2679
+
+Average absolute error         : 0.059491
+Average squared error          : 0.00556567
+27.0603% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0265793
+Error > 0.5 disp  [ in % of pixels ]: 0.0701143
+Error > 0.1 disp  [ in % of pixels ]: 2.92464
+Error > 0.05 disp [ in % of pixels ]: 33.5371
+
+Average absolute error         : 0.04247
+Average squared error          : 0.00319148
+27.0603% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0362028
+Error > 0.5 disp  [ in % of pixels ]: 0.0801961
+Error > 0.1 disp  [ in % of pixels ]: 2.41917
+Error > 0.05 disp [ in % of pixels ]: 41.4944
+
+Average absolute error         : 0.046895
+Average squared error          : 0.00364256
+27.0603% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 2669193313
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=2669193313 (E=2669193313+0+0)
+gco>> after cycle  1: 	E=149225615 (E=149225615+0+0); 	64 expansions(s); 	5428 ms
+After optimization energy is 149225615
+Error >   1 disp  [ in % of pixels ]: 0.15581
+Error > 0.5 disp  [ in % of pixels ]: 0.254795
+Error > 0.1 disp  [ in % of pixels ]: 3.33708
+Error > 0.05 disp [ in % of pixels ]: 47.5916
+
+Average absolute error         : 0.0528297
+Average squared error          : 0.00723221
+27.0603% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/cube.xml
+-1.11123 0.796921
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.99868 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.120046
+Error > 0.5 disp  [ in % of pixels ]: 0.735195
+Error > 0.1 disp  [ in % of pixels ]: 4.23572
+Error > 0.05 disp [ in % of pixels ]: 12.6489
+
+Average absolute error         : 0.0345768
+Average squared error          : 0.00749686
+17.4576% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.010655
+Error > 0.5 disp  [ in % of pixels ]: 0.625093
+Error > 0.1 disp  [ in % of pixels ]: 5.2657
+Error > 0.05 disp [ in % of pixels ]: 21.4613
+
+Average absolute error         : 0.0403483
+Average squared error          : 0.00639291
+17.4576% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.023441
+Error > 0.5 disp  [ in % of pixels ]: 0.623673
+Error > 0.1 disp  [ in % of pixels ]: 3.55806
+Error > 0.05 disp [ in % of pixels ]: 8.47214
+
+Average absolute error         : 0.0293723
+Average squared error          : 0.0054165
+17.4576% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 1413345223
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=1413345223 (E=1413345223+0+0)
+gco>> after cycle  1: 	E=85162572 (E=85162572+0+0); 	64 expansions(s); 	5386 ms
+After optimization energy is 85162572
+Error >   1 disp  [ in % of pixels ]: 0.289816
+Error > 0.5 disp  [ in % of pixels ]: 1.59754
+Error > 0.1 disp  [ in % of pixels ]: 7.727
+Error > 0.05 disp [ in % of pixels ]: 16.4428
+
+Average absolute error         : 0.0473766
+Average squared error          : 0.0167213
+17.4576% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/maria.xml
+-0.598455 0.428757
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 2.11727 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.00707206
+Error > 0.1 disp  [ in % of pixels ]: 0.847798
+Error > 0.05 disp [ in % of pixels ]: 9.6658
+
+Average absolute error         : 0.0253392
+Average squared error          : 0.00115123
+41.2261% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.0124468
+Error > 0.1 disp  [ in % of pixels ]: 5.92242
+Error > 0.05 disp [ in % of pixels ]: 32.9023
+
+Average absolute error         : 0.0423941
+Average squared error          : 0.00302428
+41.2261% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.0101838
+Error > 0.1 disp  [ in % of pixels ]: 0.523049
+Error > 0.05 disp [ in % of pixels ]: 8.0084
+
+Average absolute error         : 0.0248649
+Average squared error          : 0.0010705
+41.2261% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 646569924
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=646569924 (E=646569924+0+0)
+gco>> after cycle  1: 	E=52063453 (E=52063453+0+0); 	64 expansions(s); 	5967 ms
+After optimization energy is 52063453
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.144553
+Error > 0.1 disp  [ in % of pixels ]: 0.816964
+Error > 0.05 disp [ in % of pixels ]: 4.50971
+
+Average absolute error         : 0.0232387
+Average squared error          : 0.00153775
+41.2261% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/pyramide.xml
+-1.11133 0.787241
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 2.01834 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.411759
+Error > 0.1 disp  [ in % of pixels ]: 13.5474
+Error > 0.05 disp [ in % of pixels ]: 44.4057
+
+Average absolute error         : 0.0574598
+Average squared error          : 0.00757873
+10.9925% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.487343
+Error > 0.1 disp  [ in % of pixels ]: 7.46131
+Error > 0.05 disp [ in % of pixels ]: 28.5998
+
+Average absolute error         : 0.0447547
+Average squared error          : 0.00632968
+10.9925% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 0.447859
+Error > 0.1 disp  [ in % of pixels ]: 3.09778
+Error > 0.05 disp [ in % of pixels ]: 6.92771
+
+Average absolute error         : 0.0288326
+Average squared error          : 0.00449403
+10.9925% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 227105205
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=227105205 (E=227105205+0+0)
+gco>> after cycle  1: 	E=7630564 (E=7630564+0+0); 	64 expansions(s); 	5363 ms
+After optimization energy is 7630564
+Error >   1 disp  [ in % of pixels ]: 0.147782
+Error > 0.5 disp  [ in % of pixels ]: 1.10555
+Error > 0.1 disp  [ in % of pixels ]: 4.70534
+Error > 0.05 disp [ in % of pixels ]: 8.96395
+
+Average absolute error         : 0.0351462
+Average squared error          : 0.0102144
+10.9925% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/HCI/statue.xml
+-2.27164 0.53734
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 2.05326 Seconds
+ ======== Horizontal Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0
+Error > 0.5 disp  [ in % of pixels ]: 1.02854
+Error > 0.1 disp  [ in % of pixels ]: 14.8831
+Error > 0.05 disp [ in % of pixels ]: 36.3365
+
+Average absolute error         : 0.0637364
+Average squared error          : 0.0128267
+16.7467% pixel are checked
+
+ ======== Vertical   Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.0103668
+Error > 0.5 disp  [ in % of pixels ]: 0.154762
+Error > 0.1 disp  [ in % of pixels ]: 36.2832
+Error > 0.05 disp [ in % of pixels ]: 63.7412
+
+Average absolute error         : 0.0885328
+Average squared error          : 0.013122
+16.7467% pixel are checked
+
+ ======== Our Merge  Result     ======>>>>>>>
+Error >   1 disp  [ in % of pixels ]: 0.00148098
+Error > 0.5 disp  [ in % of pixels ]: 0.0140693
+Error > 0.1 disp  [ in % of pixels ]: 7.05093
+Error > 0.05 disp [ in % of pixels ]: 28.0075
+
+Average absolute error         : 0.0407799
+Average squared error          : 0.00333304
+16.7467% pixel are checked
+
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 923448030
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=923448030 (E=923448030+0+0)
+gco>> after cycle  1: 	E=18170298 (E=18170298+0+0); 	64 expansions(s); 	5415 ms
+After optimization energy is 18170298
+Error >   1 disp  [ in % of pixels ]: 0.0281386
+Error > 0.5 disp  [ in % of pixels ]: 0.095523
+Error > 0.1 disp  [ in % of pixels ]: 8.45268
+Error > 0.05 disp [ in % of pixels ]: 36.5979
+
+Average absolute error         : 0.0475617
+Average squared error          : 0.00456534
+16.7467% pixel are checked
+
+=================Finish====================
+=================Start====================  ../config/LYTRO/toymap.xml
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.02934 Seconds
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 6042858
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=6042858 (E=6042858+0+0)
+gco>> after cycle  1: 	E=1853061 (E=1833708+19353+0); 	64 expansions(s); 	9311 ms
+After optimization energy is 1853061
+=================Finish====================
+=================Start====================  ../config/LYTRO/tulip.xml
+ Extracting Horizontal EPI Slices Done
+ Extracting Vertical   EPI Slices Done
+Time spent 1.01496 Seconds
+ ======== MRF Refinement Result ======>>>>>>>
+Before optimization energy is 8896721
+gco>> starting alpha-expansion w/ standard cycles
+gco>> initial energy: 	E=8896721 (E=8896721+0+0)
+gco>> after cycle  1: 	E=2129784 (E=2103712+26072+0); 	64 expansions(s); 	8475 ms
+After optimization energy is 2129784
+=================Finish====================

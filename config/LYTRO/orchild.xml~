@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<DATA_H5>                 ./in/LYTRO/orchild.jpg</DATA_H5>  
+<DEPTH_H5>                ./out/LYTRO/orchild/disparity.h5</DEPTH_H5>
+<CVIEW>                   ./out/LYTRO/orchild/center_view.png</CVIEW>  
+<DEPTH_IMG>               ./out/LYTRO/orchild/depth.png</DEPTH_IMG>  
+<DEPTH_IMG_FILTER>        ./out/LYTRO/orchild/depth_filter.png</DEPTH_IMG_FILTER>  
+<ERROR_IMG>               ./out/LYTRO/orchild/erro_map.png</ERROR_IMG>
+<NUM_LABELS>64</NUM_LABELS>   
+<CONFIDENCE>0</CONFIDENCE> 
+<DATASET>1</DATASET> 
+<DMAX>1</DMAX>  
+<DMIN>0</DMIN>   
+<MASK>0</MASK> 
+<LAMBDA>0.1</LAMBDA>    
+<WW>377</WW> 
+<HH>377</HH>     
+<AA>7</AA>   
+</opencv_storage>
+
+
+
